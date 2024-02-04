@@ -1,0 +1,11 @@
+{
+    "steam_api_key" : "75958C8B399D3BABB85451223B5AFAD4",
+    "steam_api_format": "json",
+    "steam_api_server": "https://api.steampowered.com",
+    "d2match_service": "/IDOTA2Match_570",
+    "d2match_function": "/GetMatchHistory",
+    "d2match_version": "/v1",
+    
+    "api_interval" :  5,
+    "steam_account_id" : "76561198107367556"
+}
